@@ -35,3 +35,5 @@
   *Reddit data scraping + NLP + Prophet forecasting (Dash UI)*  
 - [🎬 Movie Recommendation System](https://github.com/MohsinBeg6692/Content-Based-Movie-Recommender-System-)  
   *Content-based recommendations with Streamlit UI & posters*  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
