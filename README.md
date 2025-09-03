@@ -43,3 +43,9 @@
   *Reddit data scraping + NLP + Prophet forecasting (Dash UI)*  
 - [🎬 Movie Recommendation System](https://github.com/MohsinBeg6692/Content-Based-Movie-Recommender-System-)  
   *Content-based recommendations with Streamlit UI & posters*  
+
+### 📬 Connect with Me  
+
+- LinkedIn: [Mohsin Beg](https://www.linkedin.com/in/mohsin-beg-b31331215/)  
+- Email: **begm1716@gmail.com**  
+- Portfolio: [My Projects](https://github.com/MohsinBeg6692)
