@@ -30,3 +30,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
+### 🚀 Projects
+- [📊 Sentiment Analysis Dashboard](https://github.com/MohsinBeg6692/Project)  
+  *Reddit data scraping + NLP + Prophet forecasting (Dash UI)*  
+- [🎬 Movie Recommendation System](https://github.com/MohsinBeg6692/Content-Based-Movie-Recommender-System-)  
+  *Content-based recommendations with Streamlit UI & posters*  
